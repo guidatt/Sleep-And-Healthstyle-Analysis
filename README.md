@@ -12,7 +12,7 @@ The primary goals of this Exploratory Data Analysis (EDA) are as follows:
 
 To achieve these objectives, an in-depth analysis of the majority of variables within the dataset was conducted. Through this comprehensive examination, we seek to draw conclusions and propose possible interventions for individuals experiencing sleep disorders.
 
-📄 [Here you can check the entire analysis!](https://colab.research.google.com/drive/1Yx-TdR8yuOjdkJyfe8fhfJIB0vX6JHDD#scrollTo=yivRKyc77gEE)
+📄 [Here you can check the entire analysis!](https://colab.research.google.com/drive/14YP0zkh8MhStOlecnd1qYIRE_YumJhyX#scrollTo=Bbg0c8C6AOqg)
 
 ## 📊 About the Data
 
